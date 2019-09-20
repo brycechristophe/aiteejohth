@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohxeighohz.peterlarkin.co.uk/sitemap.xml
